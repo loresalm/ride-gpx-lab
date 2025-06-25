@@ -1,0 +1,10 @@
+gpxpy
+pandas
+geopy
+numpy
+folium
+matplotlib
+elevation
+rasterio
+scipy
+haversine
